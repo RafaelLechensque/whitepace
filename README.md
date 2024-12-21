@@ -1,6 +1,6 @@
 # Whitepace
 
-Whitepace é um projeto desenvolvido com foco na criação de uma aplicação moderna e responsiva, baseada em um UX Case Study. Este repositório implementa tecnologias de ponta para garantir desempenho, escalabilidade e uma excelente experiência do usuário.
+Whitepace é um projeto desenvolvido com foco na criação de uma aplicação SaaS moderna e responsiva, baseada em um UX Case Study. Este repositório implementa tecnologias de ponta para garantir desempenho, escalabilidade e uma excelente experiência do usuário.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -32,6 +32,11 @@ Confira a página da documentação completa do design no Behance:
 
 Entre em contato com o criador do design original:
 - **Email:** siam.alrazi@gmail.com
+
+## 🌐 Deploy
+
+A aplicação está disponível online no seguinte link:
+- [Whitepace - Deploy](https://whitepace-teste.vercel.app)
 
 ## 📂 Scripts Disponíveis
 
