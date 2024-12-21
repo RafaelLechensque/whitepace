@@ -3,7 +3,6 @@ import Link from "next/link";
 import Logo from '@/assets/image/Logo.png'
 import Button from "../Button";
 import { IoIosArrowDown } from "react-icons/io";
-import { GoArrowRight } from "react-icons/go";
 
 export default function NavBar() {
 

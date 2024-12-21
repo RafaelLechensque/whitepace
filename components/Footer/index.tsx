@@ -48,11 +48,11 @@ export default function Footer() {
                 </li>
                 <li className="flex justify-between w-full">
                     {list.map(tips => (
-                        <div className=" flex flex-col gap-4">
+                        <div key={tips.title} className=" flex flex-col gap-4">
                             <h1 className="font-bold ">{tips.title}</h1>
                             <ul className="flex flex-col gap-4">
                                 {tips.itens.map(i => (
-                                    <li className="text-base">{i}</li>
+                                    <li key={i} className="text-base">{i}</li>
                                 ))}
                             </ul>
                         </div>
